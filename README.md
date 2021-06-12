@@ -5,7 +5,6 @@
 Чтобы собрать код в пaкеты необходимо: 
 
 1. Подключить cpack:
-
 ```
  - install(TARGETS hello_world DESTINATION bin)
  - set(CPACK_PACKAGE_NAME "solver")
